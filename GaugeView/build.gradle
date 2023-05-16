@@ -50,7 +50,7 @@ afterEvaluate {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.joydip-mm'
+                groupId = 'com.github.joydip1997'
                 artifactId = 'GaugeView'
                 version = '2.0'
             }
